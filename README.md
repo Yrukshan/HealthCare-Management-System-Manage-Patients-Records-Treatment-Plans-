@@ -81,15 +81,6 @@ The system includes:
 
  Clone the repository  
 
-    ```bash
-   git clone https://github.com/your-username/HealthCare.git
-   cd HealthCare/backend
-spring.datasource.url=jdbc:mysql://localhost:3306/healthcare_db
-spring.datasource.username=root
-spring.datasource.password=yourpassword
-spring.jpa.hibernate.ddl-auto=update
-spring.jpa.show-sql=true
-
 1. mvn clean install 
 2. mvn spring-boot:run 
 
