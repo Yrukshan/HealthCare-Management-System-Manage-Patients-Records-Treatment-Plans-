@@ -2,15 +2,16 @@
 
 ⚙️ Features
 
-✅ Simple Secure Staff Register & Login
-✅ Manage Patient Medical Records (CRUD)
-✅ Use Solid Principle & Vioalate Code Smells
-✅ JUnit Testing
-✅ Scan Health Card (QR Integration Ready)
-✅ Performance Analytics Dashboard
-✅ Search & Filter Patients
-✅ System Settings Management
-✅ Beautiful UI with Light & Gradient Theme
+1. ✅ Simple Secure Staff Register & Login
+2. ✅ Manage Patient Medical Records (CRUD)
+3. ✅ Use Solid Principle & Vioalate Code Smells
+4. ✅ JUnit Testing
+5. ✅ Scan Health Card (QR Integration Ready)
+6. ✅ Performance Analytics Dashboard
+7. ✅ Search & Filter Patients
+8. ✅ System Settings Management
+9. ✅ Beautiful UI with Light & Gradient Theme
+
 
 A **full-stack web application** designed for managing patients, staff, and medical records in a healthcare facility.  
 The system offers secure authentication, user-friendly dashboards, and complete CRUD functionality — built using:
@@ -89,23 +90,24 @@ spring.datasource.password=yourpassword
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
 
-mvn clean install
-mvn spring-boot:run
+1. mvn clean install 
+2. mvn spring-boot:run 
+
 
 ---
 
 ## 💻 Frontend Setup (React)
 
-cd ../frontend
-npm install
-npm start
+1. cd ../frontend
+2. npm install
+3. npm start
+
 
 ---
 
 ## 🧪 Testing — JUnit Integration
 
-Frameworks Used
-JUnit 5 (Jupiter) — for unit tests
-Mockito — for mocking service and repository dependencies
-Spring Boot Test — for integration testing
-
+1. Frameworks Used
+2. JUnit 5 (Jupiter) — for unit tests
+3. Mockito — for mocking service and repository dependencies
+4. Spring Boot Test — for integration testing
