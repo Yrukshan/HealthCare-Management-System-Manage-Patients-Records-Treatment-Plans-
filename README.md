@@ -1,0 +1,2 @@
+# HealthCare-Management-System-Manage-Patients-Records-Treatment-Plans-
+🏥 HealthCare Management System  A Full-Stack HealthCare Management System built with Java Spring Boot, React.js, and MySQL to streamline hospital operations such as managing patient records, staff authentication, and healthcare analytics. This system provides a secure and modern platform for healthcare professionals to efficiently handle patient
