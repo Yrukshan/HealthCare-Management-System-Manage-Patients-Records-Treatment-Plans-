@@ -3,8 +3,9 @@
 <br/>
 
 <img width="1884" height="912" alt="Screenshot 2025-12-28 201319" src="https://github.com/user-attachments/assets/c461f117-6619-4551-8698-60c77fbc6cc2" />
+<img width="1891" height="912" alt="Screenshot 2025-12-28 201338" src="https://github.com/user-attachments/assets/3be53810-33d7-460d-b0c1-f0dfa8d104f8" />
 
-
+<br/>
 ⚙️ Features
 
 
