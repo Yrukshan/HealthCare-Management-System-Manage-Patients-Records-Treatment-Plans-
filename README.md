@@ -6,8 +6,9 @@
 <img width="1891" height="912" alt="Screenshot 2025-12-28 201338" src="https://github.com/user-attachments/assets/3be53810-33d7-460d-b0c1-f0dfa8d104f8" />
 
 <br/>
-⚙️ Features
+<br/>
 
+⚙️ Features
 
 1. ✅ Simple Secure Staff Register & Login
 2. ✅ Manage Patient Medical Records (CRUD)
