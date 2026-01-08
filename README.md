@@ -65,7 +65,7 @@ The system includes:
 - Patient & Medical Record CRUD  
 - Exception Handling and Validation  
 - MySQL database integration  
-- DTO and Service layer separation (clean architecture)
+- DTO and Service layer separation 
 
 ### 💻 Frontend (React)
 - Interactive dashboard and navigation  
